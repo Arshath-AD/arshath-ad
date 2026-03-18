@@ -1,6 +1,6 @@
 ### I'm Arshath
 
-developer | second year student
+developer | undergraduate 
 
 learning by building
 
