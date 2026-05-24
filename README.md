@@ -1,8 +1,9 @@
-### I'm Arshath
+# I'm Arshath AD
 
-developer | undergraduate 
+`software developer` • `undergraduate`
 
-learning by building
+building real-world projects  
+learning by building every day
 
-currently debugging my life
-everyday is a breakpoint
+> currently debugging my life.  
+> every day is a breakpoint.
