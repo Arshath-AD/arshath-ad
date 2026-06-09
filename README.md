@@ -10,5 +10,5 @@ learning by building every day
 
 ## Find me online
 
-- 🌐 Portfolio — https://arshath-ad.github.io
-- 💼 LinkedIn — https://www.linkedin.com/in/arshathad
+- Portfolio — https://arshath-ad.github.io
+- LinkedIn — https://www.linkedin.com/in/arshathad
